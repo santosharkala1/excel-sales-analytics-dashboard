@@ -10,23 +10,21 @@ The project transforms transactional sales data into meaningful business insight
 
 The dashboard is designed to support data-driven decision-making by presenting key sales metrics in a clear and interactive format.
 
-## Dashboard Preview
 
-### Main Sales Dashboard
+## 📊 Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+### 1. Sales Dashboard
+![Sales Dashboard](screenshots/Dashboard.png)
 
-### Product Performance Analysis
+### 2. Product Performance
+![Product Dashboard](screenshots/Products.png)
 
-![Product Dashboard](screenshots/products.png)
+### 3. Salespeople Performance
+![Salespeople Dashboard](screenshots/Sales_people.png)
 
-### Salesperson Performance Analysis
+### 4. About the Project
+![About Dashboard](screenshots/About.png)
 
-![Salespeople Dashboard](screenshots/salespeople.png)
-
-### Project Information
-
-![About Dashboard](screenshots/about.png)
 
 ## Key Performance Indicators (KPIs)
 
