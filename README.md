@@ -14,7 +14,7 @@ The dashboard is designed to support data-driven decision-making by presenting k
 
 ### Main Sales Dashboard
 
-![Sales Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ### Product Performance Analysis
 
